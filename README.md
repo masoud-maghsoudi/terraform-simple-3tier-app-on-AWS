@@ -20,3 +20,9 @@ AWS credentials and some other information are evaluated in "terraform.tfvars" f
 Project diagram
 
 ![project diagram](./diagram.svg)
+
+
+---
+Github: https://github.com/masoud-maghsoudi
+
+Email: masoud_maghsoudi@yahoo.com
